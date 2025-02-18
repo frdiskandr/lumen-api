@@ -8,11 +8,10 @@
 Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
 
 > **Note:** In the years since releasing Lumen, PHP has made a variety of wonderful performance improvements. For this reason, along with the availability of
-> to use In local Machine
-
+# run project in local
 clone Project : git clone <URL>
 setting .env for connect database.
 
 migrate database use : # php artisan migrate
 
-# run app : php -S localhost:3000 -t public
+run app : php -S localhost:3000 -t public
